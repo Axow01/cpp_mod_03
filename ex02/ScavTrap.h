@@ -6,12 +6,12 @@
 /*   By: mmarcott <mmarcott@student.42quebec.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/16 12:31:34 by mmarcott          #+#    #+#             */
-/*   Updated: 2024/01/16 13:10:10 by mmarcott         ###   ########.fr       */
+/*   Updated: 2024/01/16 14:59:51 by mmarcott         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef H_SCAVTRAP
-# define H_SCAVTRAPa
+# define H_SCAVTRAP
 
 # include "ClapTrap.h"
 
