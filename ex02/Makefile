@@ -14,7 +14,7 @@ C_YELLOW = \\x1b[33m
 
 #--- DEFAULT VALUES ---#
 
-NAME = ScavTrap
+NAME = FragTrap
 
 SRC = main.cpp ClapTrap.cpp ScavTrap.cpp FragTrap.cpp
 
