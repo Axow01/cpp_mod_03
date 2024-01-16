@@ -6,11 +6,11 @@
 /*   By: mmarcott <mmarcott@student.42quebec.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/16 12:20:27 by mmarcott          #+#    #+#             */
-/*   Updated: 2024/01/16 13:23:53 by mmarcott         ###   ########.fr       */
+/*   Updated: 2024/01/16 14:45:52 by mmarcott         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ScavTrap.h"
+#include "FragTrap.h"
 
 int	main(void) {
 	ClapTrap	jean("Jean");

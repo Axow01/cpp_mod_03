@@ -16,7 +16,7 @@ C_YELLOW = \\x1b[33m
 
 NAME = ScavTrap
 
-SRC = main.cpp ClapTrap.cpp ScavTrap.cpp
+SRC = main.cpp ClapTrap.cpp ScavTrap.cpp FragTrap.cpp
 
 OBJS = $(patsubst %.cpp, bin/%.o, $(SRC))
 
